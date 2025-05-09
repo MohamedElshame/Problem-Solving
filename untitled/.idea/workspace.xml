@@ -21,10 +21,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd79b777-05b7-4993-9308-13266b4405c9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/مراجعة.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/مراجعة.iml" afterDir="false" />
+    <list default="true" id="123ca359-a931-4dd1-85a6-5a764a0590aa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../مراجعة/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../مراجعة/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../مراجعة/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../مراجعة/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../مراجعة/.idea/مراجعة.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../مراجعة/.idea/مراجعة.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,19 +34,28 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2025" />
+    <option name="minorVersion" value="1" />
+    <option name="productBranch" value="Classic" />
+  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
+  &quot;associatedIndex&quot;: 1
 }</component>
-  <component name="ProjectId" id="2wPYJw4ok3jyb8s5kx2bjblqvWA" />
+  <component name="ProjectId" id="2wPWBToBXipIeAlfKKiEe9A5sLb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;CMake Application.untitled.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -54,25 +63,35 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/المحاضرات/problem solving/ProblemSolving/مراجعة/main.cpp&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/المحاضرات/problem solving/ProblemSolving/untitled/main.cpp&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dd79b777-05b7-4993-9308-13266b4405c9" name="Changes" comment="" />
-      <created>1745943356290</created>
+      <changelist id="123ca359-a931-4dd1-85a6-5a764a0590aa" name="Changes" comment="" />
+      <created>1745943553866</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1745943356290</updated>
-      <workItem from="1745943357942" duration="133000" />
-      <workItem from="1745944608748" duration="36000" />
-      <workItem from="1745944645560" duration="164000" />
+      <updated>1745943553866</updated>
+      <workItem from="1745943555896" duration="1046000" />
     </task>
     <servers />
   </component>

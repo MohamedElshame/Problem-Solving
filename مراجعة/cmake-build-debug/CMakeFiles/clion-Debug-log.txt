@@ -1,0 +1,6 @@
+"D:\clion\CLion 2025.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S "D:\المحاضرات\problem solving\ProblemSolving\مراجعة" -B "D:\المحاضرات\problem solving\ProblemSolving\مراجعة\cmake-build-debug"
+CMake Error at CMakeLists.txt:2 (project):
+  project PROJECT called with incorrect number of arguments
+
+
+-- Configuring incomplete, errors occurred!

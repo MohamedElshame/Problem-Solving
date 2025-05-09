@@ -1,0 +1,3 @@
+D:/المحاضرات/problem solving/ProblemSolving/Cskilled/cmake-build-debug/CMakeFiles/Cskilled.dir
+D:/المحاضرات/problem solving/ProblemSolving/Cskilled/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/المحاضرات/problem solving/ProblemSolving/Cskilled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
